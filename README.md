@@ -37,5 +37,3 @@ Topics Covered:
     - <a href="https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/Deep%20Q%20Learning/Doom/Deep%20Q%20learning%20with%20Doom.ipynb"> Deep Learning with Doom</a>
     - <a href="https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/">Person-specific Face Recognition with OpenCV</a>
     - <a href="https://github.com/commaai/research">Driving Autopilot</a>
-    - <a href
-
