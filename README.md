@@ -15,6 +15,7 @@ Topics Covered:
 - Musheen Lernin'
   - Notebooks
     - <a href="./ml">Tensorflow Examples</a>
+    - <a href="https://github.com/tensorflow/models/blob/master/research/object_detection">Object Detection Example</a>
   - Tensorflow Components
     - <a href="https://www.tensorflow.org/hub">Tensorflow Hub</a>
     - <a href="https://github.com/tensorflow/serving">TF Serving</a>
